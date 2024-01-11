@@ -2,6 +2,8 @@
 title: "R Notebook"
 output: html_notebook
 ---
+# Primer código
+
 
 ```{r}
 x=10
@@ -11,4 +13,4 @@ z=x+y
 ```{r}
 z
 ```
-
+Este es un mensaje
